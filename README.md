@@ -10,8 +10,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a full stack developer, a game programmer, and an aspiring content creator! I'm also a Unity Live Help Expert, so feel free to reach out to me on <a href="https://livehelp.unity.com/expert/ian-mathew?source=lesson"> Unity Live Help </a>.
-</p>
+<p> I wear many hats depending on what is required of me but, a passionate learner, a frontend developer, a gamer, and a traveller!</p>
 
 ### 👨🏽‍💻Tech Stack
 
