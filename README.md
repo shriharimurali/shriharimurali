@@ -1,9 +1,9 @@
 ## Hey there! I'm Shrihari.
 
 <p align='center'>
-<a href="mailto:shriharim6@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iansmathew/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iansmathew"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
+<a href="mailto:shriharim6@gmail.com"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cTJMGw0u-6pa22rOEAxiIXcaOaGp-_PXxw&usqp=CAU"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shrihari-m-a080526b/"><img height="30" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ShrihariMurali"><img height="30" src="https://image.flaticon.com/icons/png/512/124/124021.png"></a>&nbsp;&nbsp;
   
 ---
 
