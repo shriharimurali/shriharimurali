@@ -29,9 +29,9 @@ Here are a few things I've picked up along my learning journey.
 
 Here are some things on my todo list.
 
-- _Flutter
-- _Dart
-- _Azure
+- _Flutter_
+- _Dart_
+- _Azure_
 - _Creating Medium articles_
 
 `Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
