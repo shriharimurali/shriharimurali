@@ -20,6 +20,9 @@ Here are a few things I've picked up along my learning journey.
 
 - 🗣 HTML 𒑰 CSS 𒑰 JavaScript 𒑰 TypeScript 𒑰 jQuery
 - 🎒 NodeJS 𒑰 Express 𒑰 GraphQL
+- VueJS
+- Next JS
+- React | Redux
 - ☁ AWS
 - 📱 React Native
 - ♽ Docker
